@@ -1,4 +1,4 @@
-# 100 days Of code - log
+# 100 days of code - log (austin)
 
 ### day 0: 1 may 2024
 
