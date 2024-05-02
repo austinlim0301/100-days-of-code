@@ -9,7 +9,13 @@
 **link to work:** [100-days-of-code](https://github.com/austinlim0301/100-days-of-code)
 
 
+### day 1: 2 may 2024
 
+**today's progress**: refreshed some html concepts + some css exercises. i mainly rushed through the html part since i am pretty familiar with it already.
+
+**thoughts:** nothing much, just hoping i can be consistent and keep this up.
+
+**link to work:** [css-exercises](https://github.com/austinlim0301/css-exercises)
 
 
 <!-- ### day #: 
